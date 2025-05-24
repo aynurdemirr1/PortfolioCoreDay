@@ -46,8 +46,6 @@ Proje geliştirme sürecinde, M&Y Yazılım Akademi bünyesinde ve değerli eği
 
 ---![Ekran görüntüsü 2025-05-24 205551](https://github.com/user-attachments/assets/8f930ee6-41c0-4748-a35c-161947771a6a)
 
-![Ekran görüntüsü 2025-05-24 205706](https://github.com/user-attachments/assets/17a4122c-f02b-4e46-8726-264fb68fd621)
-
 ![Ekran görüntüsü 2025-05-24 205621](https://github.com/user-attachments/assets/0d58bdf8-227f-461c-8b79-db0c831bf15e)
 
 ![Ekran görüntüsü 2025-05-24 205706](https://github.com/user-attachments/assets/1916b16b-f7a1-416d-a663-3a5e8ae8cca9)
